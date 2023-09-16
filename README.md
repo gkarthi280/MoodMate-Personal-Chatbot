@@ -1,1 +1,2 @@
 # Mood-Mate
+I developed a personalized inspirational chatbot mobile app with a sleek front-end design. Leveraging machine learning, I incorporated a zero-shot classification and sentiment analysis model that processes user queries to generate personalized inspirational quotes. Moreover, I integrated NoSQL databases, namely Firebase Realtime and Firestore, to securely store user data and user-generated content.
